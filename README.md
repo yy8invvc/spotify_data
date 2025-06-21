@@ -1,3 +1,8 @@
+#Project Category: Advanced Click Here to get Dataset
+
+![Spotify Logo](/images/2015-spotify-logo-600x319.png)
+
+
 # Spotify SQL Data Analysis & Optimization Project
 
 ## Project Overview
